@@ -1,0 +1,9 @@
+{
+  "name": "unnamed-p2p-social",
+  "version": "0.0.0",
+  "description": "puwple?",
+  "main": "index.js",
+  "repository": "git@github.com:sammypanda/unnamed-p2p-social.git",
+  "author": "sammypanda <38725335+sammypanda@users.noreply.github.com>",
+  "license": "GPLv3"
+}
